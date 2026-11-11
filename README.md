@@ -202,4 +202,4 @@ This repository serves as the official landing page for Euro Caps. The software 
 **Get the most recent version of Euro Caps today!**
 
 ---
-**Last updated:** 2026-11-11 05:42:04 UTC
+**Last updated:** 2026-11-11 13:55:47 UTC
